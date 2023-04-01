@@ -1,5 +1,5 @@
 ## <p align="center">Gerador de código QR<p>
-🔸Gerador de código QR usando API Google (GET de URL)
+🔸Gerador de código QR usando API Google (GET de URL): <code>developers.google.com/chart/infographics/docs/qr_codes</code>
 ***
 #### 🔸Tecnologias utilizadas:
 
@@ -12,7 +12,7 @@
 
 ***
 #### 🔸Pré-visualização (screenshot):
-[![qr-code](https://user-images.githubusercontent.com/80191040/229303880-0116f85f-5a69-426b-a5c0-64590cd8af42.png)](https://adriwco.github.io/progress-steps)
+[![qr-code](https://user-images.githubusercontent.com/80191040/229303880-0116f85f-5a69-426b-a5c0-64590cd8af42.png)](https://adriwco.github.io/qr-code-generator)
 
 ***
 ### <p align="center">🔸[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)🔸</p>
