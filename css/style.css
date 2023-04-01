@@ -50,6 +50,9 @@ input {
   border: none;
   outline: none;
 }
+input::placeholder {
+  text-align: center;
+}
 .generateBtn {
   padding: 10px 20px;
   border-radius: 10px;
